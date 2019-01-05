@@ -8,11 +8,17 @@ herokuで公開してます。(herokuは30分アクセスがなければでサ�
 https://qanda-portfolio.herokuapp.com/
 
 機能
+
 ・質問投稿
+
 ・質問変更
+
 ・質問削除
+
 ・回答投稿
+
 ・回答変更
+
 ・回答削除
 
 * Ruby version
