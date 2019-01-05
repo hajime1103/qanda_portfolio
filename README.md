@@ -22,5 +22,19 @@ https://qanda-portfolio.herokuapp.com/
 ・回答削除
 
 * Ruby version
+
 ruby 2.5.1
+
 Rails 5.2.2
+
+* 開発環境
+
+AWS Cloud9
+
+sqlite
+
+* 本番環境
+
+heroku
+
+postgresql
